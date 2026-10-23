@@ -67,6 +67,7 @@
 
 | Thời gian | Vị trí | Điểm nổi bật |
 | --- | --- | --- |
+| **09/2025 – nay** | **Frontend Engineer** · Smartbit | Xây dựng enterprise CMS & admin dashboard cho đối tác quốc tế. Thiết kế design system với React, Next.js, Ant Design, Tailwind. Realtime WebSocket scale 1,000 → 50,000 TPS. |
 | **03/2023 – 08/2025** | **Fullstack Developer** · SystemEXE Việt Nam | Hệ thống doanh nghiệp cho khách hàng Nhật (bất động sản, cho thuê xe). Migrate legacy lên Java 17 & Vue 3, thiết kế RESTful API, tích hợp AWS và Redis. |
 
 ### 🚀 Dự án
