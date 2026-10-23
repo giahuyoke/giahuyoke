@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=L%C6%B0u%20Gia%20Huy&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Sub%20Lead%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=16" width="100%" alt="Lưu Gia Huy" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=L%C6%B0u%20Gia%20Huy&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=16" width="100%" alt="Lưu Gia Huy" />
 
-<a href="https://github.com/giahuyoke"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=3.5%2B+n%C4%83m+x%C3%A2y+d%E1%BB%B1ng+n%E1%BB%81n+t%E1%BA%A3ng+web+doanh+nghi%E1%BB%87p;Enterprise+CMS+%C2%B7+Admin+Dashboard+%C2%B7+Realtime;D%E1%BA%ABn+d%E1%BA%AFt+team+frontend+5+ng%C6%B0%E1%BB%9Di+t%E1%BA%A1i+Smartbit" alt="Typing intro" /></a>
+<a href="https://github.com/giahuyoke"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=3.5%2B+n%C4%83m+x%C3%A2y+d%E1%BB%B1ng+n%E1%BB%81n+t%E1%BA%A3ng+web+doanh+nghi%E1%BB%87p;Enterprise+CMS+%C2%B7+Admin+Dashboard+%C2%B7+Realtime;Design+system+%C2%B7+Component+architecture+%C2%B7+Performance" alt="Typing intro" /></a>
 
 <p>
   <a href="mailto:giahuyoke01@gmail.com"><img src="https://img.shields.io/badge/Email-giahuyoke01%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-H%E1%BB%93%20Ch%C3%AD%20Minh-0f172a?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-Frontend%20Lead-16a34a?style=flat-square" alt="Open to Frontend Lead" />
   <img src="https://komarev.com/ghpvc/?username=giahuyoke&style=flat-square&color=2563eb&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -17,14 +16,10 @@
 
 ### 👋 Về mình
 
-Frontend engineer với **3.5+ năm** xây dựng nền tảng web doanh nghiệp cho khách hàng Nhật Bản và quốc tế. Hiện là **Frontend Sub Lead tại Smartbit**, dẫn dắt team frontend 5 người.
-
 - 💻 Chuyên **React, Next.js, TypeScript** cho CMS và admin dashboard nhiều dữ liệu.
 - ⚡ Tích hợp realtime qua **WebSocket**, nâng throughput từ **1,000 lên 50,000 TPS (50×)**.
 - 🧱 Thiết kế component architecture, design system tái sử dụng, tối ưu bundle và hiệu năng render.
 - ☕ Có kinh nghiệm fullstack với **Java Spring Boot** và **Vue 3**.
-- 🧑‍🏫 Nâng chuẩn kỹ thuật qua code review, TypeScript guidelines và mentoring.
-- 🎯 Đang tìm kiếm vị trí **Frontend Lead**.
 
 ### 🛠️ Tech stack
 
@@ -72,14 +67,13 @@ Frontend engineer với **3.5+ năm** xây dựng nền tảng web doanh nghiệ
 
 | Thời gian | Vị trí | Điểm nổi bật |
 | --- | --- | --- |
-| **09/2025 – nay** | **Frontend Sub Lead** · Smartbit | Dẫn dắt team 5 frontend dev xây dựng enterprise CMS & admin dashboard cho đối tác quốc tế. Thiết kế design system với React, Next.js, Ant Design, Tailwind. Realtime WebSocket scale 1,000 → 50,000 TPS. |
 | **03/2023 – 08/2025** | **Fullstack Developer** · SystemEXE Việt Nam | Hệ thống doanh nghiệp cho khách hàng Nhật (bất động sản, cho thuê xe). Migrate legacy lên Java 17 & Vue 3, thiết kế RESTful API, tích hợp AWS và Redis. |
 
 ### 🚀 Dự án
 
 | Dự án | Mô tả | Công nghệ |
 | --- | --- | --- |
-| 📊 **Enterprise CMS & Admin Dashboard** · Smartbit | CMS và dashboard trực quan hóa dữ liệu lớn, quản lý user/partner và quy trình vận hành. Team 30 người. | React · Next.js · Redux Toolkit · WebSocket |
+| 📊 **Enterprise CMS & Admin Dashboard** | CMS và dashboard trực quan hóa dữ liệu lớn, quản lý user/partner và quy trình vận hành. Team 30 người. | React · Next.js · Redux Toolkit · WebSocket |
 | 🏢 **GCS — Real Estate Contract Management** · SystemEXE | Hệ thống quản lý hợp đồng bất động sản đa chi nhánh cho công ty Nhật. Team 50 người. | Vue 3 · Spring Boot · Oracle 19c · AWS |
 | 🚙 **Car Sharing Platform** · SystemEXE | Nền tảng tìm kiếm, đặt và quản lý thuê xe lưu lượng cao. | Spring Boot · MySQL · Redis · AWS |
 | 🪺 **[Sổ Yến](https://github.com/giahuyoke/so-yen-app)** · cá nhân | Sổ sách kho, chế biến, bán hàng, công nợ và thuế cho hộ kinh doanh yến sào. | Next.js 16 · React 19 · Ant Design 6 · Firestore |
